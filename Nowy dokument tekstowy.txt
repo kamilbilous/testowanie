@@ -1,2 +1,7 @@
 eeeeeeeeee
+<<<<<<< HEAD
+
+dasdsa
+=======
 kfkfkf
+>>>>>>> test2
