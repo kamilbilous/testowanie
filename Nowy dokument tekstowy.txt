@@ -1,1 +1,11 @@
+<<<<<<< HEAD
 fjidsjioffojidsf
+=======
+eeeeeeeeee
+<<<<<<< HEAD
+
+dasdsa
+=======
+kfkfkf
+>>>>>>> test2
+>>>>>>> test2
